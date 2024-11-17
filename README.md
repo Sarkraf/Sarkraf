@@ -40,6 +40,7 @@ I create personal projects to learn new technologies and deepen my understanding
 ---
 
 ✨ Thank you for visiting my GitHub profile! Feel free to explore my projects and contact me for any collaborations or questions.
-![Views](https://komarev.com/ghpvc/?username=Sarkraf&color=red&style=plastic&label=👀)
-<!-- center element  -->
-<p align="center"></p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarkraf&color=red&style=plastic&label=👀" alt="Views" width="200">
+</div>
