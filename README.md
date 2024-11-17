@@ -43,4 +43,4 @@ I create personal projects to learn new technologies and deepen my understanding
 
 <!-- center element  -->
 <p align="center"></p>
-![](https://komarev.com/ghpvc/?username=Sarkraf&color=red&style=plastic&label=👀)
+![](https://komarev.com/ghpvc/?username=Sarkraf&color=red&style=plastic&label=test)
