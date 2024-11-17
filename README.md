@@ -1,4 +1,4 @@
-# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=4500&pause=1000&vCenter=true&width=700&height=70&lines=Welcome+to+my+GitHub+Profile!;Feel+free+to+explore+my+projects+!)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4500&pause=1000&color=DC100FD4&vCenter=true&width=710&height=70&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile+!;Feel+free+to+explore+my+projects)
 
 I am a passionate developer specializing in Rails for the moment. 🚀<br>
 I create personal projects to learn new technologies and deepen my understanding.
