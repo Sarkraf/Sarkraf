@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-I am a passionate developer specializing in Rails for the moment. 🚀
+I am a passionate developer specializing in Rails for the moment. 🚀<br>
 I create personal projects to learn new technologies and deepen my understanding.
 
 ---
