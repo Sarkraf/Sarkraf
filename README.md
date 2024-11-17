@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub profile!
+# 👋 ![Typing SVG](![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+love+coding!;Feel+free+to+explore+my+projects!))
 
 I am a passionate developer specializing in Rails for the moment. 🚀<br>
 I create personal projects to learn new technologies and deepen my understanding.
