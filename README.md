@@ -45,6 +45,7 @@ I create personal projects to learn new technologies and deepen my understanding
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkraf&layout=donut&size_weight=1&count_weight=0&theme=radical" />
   </a>
 </div>
+
 ---
 
 ## 🤝 Contact Me
