@@ -38,10 +38,10 @@ I create personal projects to learn new technologies and deepen my understanding
 <!-- ![Sarkraf GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarkraf&show_icons=true&theme=radical&hide_rank=true&custom_title=Sarkraf%20GitHub%20Stats&)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkraf&layout=donut&size_weight=1&count_weight=0&theme=radical) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=50% src="https://github-readme-stats.vercel.app/api?username=Sarkraf&show_icons=true&theme=radical&hide_rank=true&custom_title=Sarkraf%20GitHub%20Stats" />
+  <img height=200 align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=Sarkraf&show_icons=true&theme=radical&hide_rank=true&custom_title=Sarkraf%20GitHub%20Stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkraf&layout=donut&size_weight=1&count_weight=0&theme=radical" />
+  <img height=200 align="center" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkraf&layout=donut&size_weight=1&count_weight=0&theme=radical" />
 </a>
 
 ---
