@@ -33,8 +33,8 @@ I create personal projects to learn new technologies and deepen my understanding
 
 ## 🤝 Contact Me
 
-- **Portfolio**: <a href="https://img.freepik.com/vecteurs-libre/bientot-texte-fond-sombre-lever-soleil-abstrait-effet-mouvement_157027-1073.jpg?t=st=1731857566~exp=1731861166~hmac=adc7c7b9e6110598dceb4418b75c27dbfd4ebe5afa3b2687f96be2b7fe8bd19b&w=1380" target="_blank">link-to-my-portfolio</a>
-- **LinkedIn**: <a href="https://www.linkedin.com/in/arnaud-floriani-developpeur/" target="_blank">My Profile</a>
+- **Portfolio**: [link-to-my-portfolio](https://img.freepik.com/vecteurs-libre/bientot-texte-fond-sombre-lever-soleil-abstrait-effet-mouvement_157027-1073.jpg?t=st=1731857566~exp=1731861166~hmac=adc7c7b9e6110598dceb4418b75c27dbfd4ebe5afa3b2687f96be2b7fe8bd19b&w=1380)
+- **LinkedIn**: [My Profile](https://www.linkedin.com/in/arnaud-floriani-developpeur/)
 - **Email**: sarkraf.dev@gmail.com
 
 ---
