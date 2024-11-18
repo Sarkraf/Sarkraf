@@ -28,7 +28,7 @@ I create personal projects to learn new technologies and deepen my understanding
 ## 🔭 Current Projects
 
 - 🌱 I am currently learning javascript and rails deeper.
-- 💻 I am working on any personal projects.
+- 💻 I am working on many personal projects.
 - 🔗 Check out my projects [here](https://github.com/Sarkraf?tab=repositories).
 
 ---
